@@ -47,7 +47,8 @@ main {
 
 #todays-description {
     text-align: center;
-    
+    width: 50%;
+    margin: 0 20px;
 }
 
 #todays-description h1{
@@ -62,8 +63,14 @@ main {
     font-size: small;
 }
 
+#list-container {
+    width: 50%;
+    margin: 0 20px;
+}
+
 #advice {
     font-family: 'Montserrat', sans-serif;
     font-weight: normal;
     font-size: 15px;
+    margin: 0 100px;
 }
